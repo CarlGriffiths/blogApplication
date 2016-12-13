@@ -1,6 +1,6 @@
 == README
 
-This is is a blog application I made while learing ruby on rails, it's has basic funtions, such as create a new post, edit and delete.
+This is is a blog application I made while learing ruby on rails, it has basic funtions, such as create a new post, edit and delete.
 
 Things I learned while creating this blog:
 
